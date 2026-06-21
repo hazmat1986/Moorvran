@@ -1,4 +1,4 @@
-# Valdenmoor
+# Moorvran
 
 A text-based, turn-based RPG built in Python as a learning project, following *Python Crash Course* (3rd Edition) by Eric Matthes. Every chapter adds exactly one new mechanic. Nothing is rebuilt — it only grows forward.
 
@@ -53,7 +53,7 @@ Open either file in Thonny and press **Run**. No dependencies. No installation. 
 
 ## Version History
 
-Archived on GitHub after each chapter as `ch[n]_game.py` and `ch[n]_brehon.py`.
+Tracked via Git. Each chapter completion is committed with a message like "Chapter 4 complete". The full history of every build is preserved in the commit log — no separate archive files needed.
 
 ---
 
