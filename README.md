@@ -1,4 +1,4 @@
-# Valdenmoor
+# Moorvran
 
 A text-based, turn-based RPG built in Python as a learning project, following *Python Crash Course* (3rd Edition) by Eric Matthes. Every chapter adds exactly one new mechanic. Nothing is rebuilt — it only grows forward.
 
